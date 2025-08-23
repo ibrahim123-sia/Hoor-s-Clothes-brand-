@@ -5,19 +5,19 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah M.",
+      name: "Sarah Asghar",
       comment: "The quality of these dresses is exceptional! My daughter loves them.",
       rating: 5
     },
     {
       id: 2,
-      name: "Jessica K.",
+      name: "Umme Hafsa",
       comment: "Beautiful craftsmanship and fast delivery. Will definitely order again!",
       rating: 5
     },
     {
       id: 3,
-      name: "Emily R.",
+      name: "Sana Asif",
       comment: "The perfect dress for my baby's first birthday. So many compliments!",
       rating: 4
     }
