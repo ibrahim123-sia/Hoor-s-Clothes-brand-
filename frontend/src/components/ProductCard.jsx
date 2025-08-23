@@ -155,12 +155,7 @@ const ProductCard = ({ product, addToCart }) => {
         <h3 className="text-lg font-semibold text-pink-900 mb-2 line-clamp-1">
           {product.name}
         </h3>
-        <div className="flex items-center mb-3">
-          <div className="flex">{renderStars(product.rating)}</div>
-          <span className="ml-2 text-xs text-gray-500">
-            {product.rating.toFixed(1)}
-          </span>
-        </div>
+       
         <div className="flex items-center justify-between mt-4">
           <span className="text-pink-700 font-semibold">
             {product.price}
