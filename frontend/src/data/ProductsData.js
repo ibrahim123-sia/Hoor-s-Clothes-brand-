@@ -131,8 +131,8 @@ export const productsData = [
     details: [
       "Material: Cotton",
       "Age Range: 2-3 years",
-      "Available Colors: Blue, Light Blue",
-      "Care: Machine washable",
+     "Available Colors: Same as shown in picture",
+      "Customization: Can be made to order in any design you prefer",
     ],
     dateAdded: "2025-07-28",
     isNew: false,
@@ -208,8 +208,8 @@ export const productsData = [
     details: [
       "Material: Satin and Tulle",
       "Age Range: 2-3 years",
-      "Available Colors: Pink, White, Lavender",
-      "Care: Dry clean recommended",
+      "Available Colors: Same as shown in picture",
+      "Customization: Can be made to order in any design you prefer",
     ],
     dateAdded: "2025-08-23",
     isNew: true,
