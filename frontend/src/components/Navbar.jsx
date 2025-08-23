@@ -161,11 +161,11 @@ const Navbar = ({ cartItems }) => {
               Frocks
             </Link>
             <Link
-              to="/products/rompers"
+              to="/products/party"
               className="block px-3 py-2 rounded-md text-base font-medium hover:bg-pink-400"
               onClick={() => setIsMenuOpen(false)}
             >
-              Rompers
+              Party
             </Link>
             <Link
               to="/products"
