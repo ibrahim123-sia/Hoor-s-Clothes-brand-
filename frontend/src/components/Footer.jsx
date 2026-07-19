@@ -12,7 +12,7 @@ const Footer = () => {
             <p className="text-pink-800">
               Hello! I'm Yasmeen mother of Hoor Fatima, the founder and artisan behind Hoor's. I
               started creating handmade baby clothes because I believe your
-              little one deserves the very best. As a [mom/dad/parent/aunt], I
+              little one deserves the very best. As a mom, I
               understand the importance of soft, safe, and well-made clothing
               for delicate skin. Each piece from Hoor's is personally designed
               and stitched by me using high-quality, premium fabrics, ensuring

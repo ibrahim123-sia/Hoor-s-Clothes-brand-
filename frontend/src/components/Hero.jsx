@@ -1,7 +1,7 @@
 // components/Hero.jsx (updated design)
 import React from 'react'
 import { Link } from 'react-router-dom'
-import hero from "../assets/hoor.png"
+import hero from "../assets/hoor.jpg"
 
 const Hero = () => {
   return (
